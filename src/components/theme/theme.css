@@ -1,0 +1,30 @@
+.bg-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.bg-main .btn{
+    margin:10px;
+}
+.bg-red{
+    background:red;
+}
+.bg-orange{
+    background:orange;
+}
+.bg-cyan{
+    background:cyan;
+}
+.bg-lime{
+    background:lime;
+}
+.bg-purple{
+    background:purple;
+}
+.bg-skyblue{
+    background:skyblue;
+}
+.bg-maroon{
+    background:maroon;
+}

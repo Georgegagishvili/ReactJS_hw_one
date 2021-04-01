@@ -1,0 +1,43 @@
+.btn {
+  border: 1px solid #ececec;
+  border-radius: 20px;
+}
+.btn_counter_plus {
+  background-color: #30cb00;
+  font-family: cursive;
+  transition: 0.5s;
+}
+.btn_counter_plus:hover {
+  background-color: green;
+  transition: 0.5s;
+}
+.btn_counter_minus {
+  background-color: #fc077b;
+  font-family: cursive;
+  transition: 0.5s;
+}
+.btn_counter_minus:hover {
+  background-color: red;
+  transition: 0.5s;
+}
+.bg-red {
+  background: red;
+}
+.bg-orange {
+  background: orange;
+}
+.bg-cyan {
+  background: cyan;
+}
+.bg-lime {
+  background: lime;
+}
+.bg-purple {
+  background: purple;
+}
+.bg-skyblue {
+  background: skyblue;
+}
+.bg-maroon {
+  background: maroon;
+}
